@@ -8,7 +8,7 @@
 
 <img align="right" alt="GIF" src="https://i.gifer.com/origin/e2/e2aec645e3f805bfeef5468bc9bf3a34.gif" width="620px"/> </br>  
 
-<img align="center" src="https://www.codewars.com/users/kaizer_1/badges/large"/>
+
 
 **Back-end**
 
@@ -36,6 +36,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
+<img src="https://www.codewars.com/users/kaizer_1/badges/large"/>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
