@@ -40,5 +40,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+**CodeWars**
+
 <img src="https://www.codewars.com/users/kaizer_1/badges/large"/>
 
