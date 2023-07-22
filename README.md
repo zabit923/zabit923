@@ -8,6 +8,7 @@
 
 <img align="right" alt="GIF" src="https://i.gifer.com/origin/e2/e2aec645e3f805bfeef5468bc9bf3a34.gif" width="620px"/>
 
+<img align="right" src="https://www.codewars.com/users/kaizer_1/badges/large"/>
 **Back-end**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -37,4 +38,4 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<img align="right" src="https://www.codewars.com/users/kaizer_1/badges/large"/>
+
