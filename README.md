@@ -18,6 +18,11 @@
 ![Celery](https://img.shields.io/badge/Celery-37814A.svg?style=for-the-badge&logo=Celery&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white)
 
+**Databases**
+
+![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
+
 Front-end
 
 Tools 
