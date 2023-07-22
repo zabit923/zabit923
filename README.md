@@ -2,7 +2,7 @@
 
 ## Telegram
 
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)(https://t.me/S_Hauptmann)</br>
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white) src="https://t.me/S_Hauptmann"</br>
 
 ## Technology stack
 
