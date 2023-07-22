@@ -12,7 +12,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
-![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
+![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django) \n
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A.svg?style=for-the-badge&logo=Celery&logoColor=white)
