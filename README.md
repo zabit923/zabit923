@@ -1,6 +1,6 @@
-![Header](https://github.com/zabit923/zabit923/blob/main/assets/coding.gif)
+<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320" />
 
-About me
+## beginning Backend-Developer
 
 Back-end
 
