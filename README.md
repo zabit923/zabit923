@@ -6,7 +6,7 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://i.gifer.com/origin/e2/e2aec645e3f805bfeef5468bc9bf3a34.gif"/>
+<img align="right" alt="GIF" src="https://i.gifer.com/origin/e2/e2aec645e3f805bfeef5468bc9bf3a34.gif" width="500px"/>
 
 **Back-end**
 
