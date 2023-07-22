@@ -6,8 +6,9 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://i.gifer.com/origin/e2/e2aec645e3f805bfeef5468bc9bf3a34.gif" width="620px"/> </br>   
+<img align="right" alt="GIF" src="https://i.gifer.com/origin/e2/e2aec645e3f805bfeef5468bc9bf3a34.gif" width="620px"/> </br>  
 
+<img align="right" src="https://www.codewars.com/users/kaizer_1/badges/large" margin-top="50px"/>
 
 **Back-end**
 
@@ -18,8 +19,6 @@
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)  
 ![Celery](https://img.shields.io/badge/Celery-37814A.svg?style=for-the-badge&logo=Celery&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white)
-
-<img align="right" src="https://www.codewars.com/users/kaizer_1/badges/large"/>
 
 **Databases**
 
