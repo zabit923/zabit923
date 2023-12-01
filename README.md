@@ -1,13 +1,7 @@
-
-
-
-
-## Technology stack
-
 <img align="right" alt="GIF" src="https://64.media.tumblr.com/31955ed8e5cbe1044990bfc858af4704/tumblr_olmjzj3URh1uo5tbio1_1280.gifv" width="850px"/> </br>  
 
 
-
+## Technology stack
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
