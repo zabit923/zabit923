@@ -4,7 +4,7 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://64.media.tumblr.com/31955ed8e5cbe1044990bfc858af4704/tumblr_olmjzj3URh1uo5tbio1_1280.gifv" width="620px"/> </br>  
+<img align="right" alt="GIF" src="https://64.media.tumblr.com/31955ed8e5cbe1044990bfc858af4704/tumblr_olmjzj3URh1uo5tbio1_1280.gifv" width="800px"/> </br>  
 
 
 
