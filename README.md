@@ -1,16 +1,13 @@
-## Beginning Backend-Developer
 
-## Telegram
 
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)</br> @S_Haupmann
+
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://i.gifer.com/origin/e2/e2aec645e3f805bfeef5468bc9bf3a34.gif" width="620px"/> </br>  
+<img align="right" alt="GIF" src="https://64.media.tumblr.com/31955ed8e5cbe1044990bfc858af4704/tumblr_olmjzj3URh1uo5tbio1_1280.gifv" width="620px"/> </br>  
 
 
 
-**Back-end**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
