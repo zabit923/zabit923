@@ -1,5 +1,16 @@
-<img alt="GIF" src="https://i.pinimg.com/originals/50/0d/05/500d05bcbc3c80383458ee245122acb8.gif" width="850px"/></br>  
+[![wakatime](https://wakatime.com/badge/user/018ccf65-24b1-4086-8ab7-cc20795faedb.svg)](https://wakatime.com/@018ccf65-24b1-4086-8ab7-cc20795faedb)
 
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b>Zabit Ibragimov.</b>
+        </samp>
+</h3>
+
+<hr>
+
+<img alt="GIF" src="https://i.pinimg.com/originals/97/b3/12/97b312409fbcabc96d97ef45bf8f852b.gif" width="800px"/>
+
+<hr>
 
 
 - 📫 My mail: xaclafun1991@gmail.com
@@ -29,4 +40,21 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+<hr>
 
+<p align="center">
+    <a href="https://github.com/alsiam">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zabit923&theme=radical"/>
+    </a>
+</p>
+
+<a>
+    <a href="https://github.com/zabit923">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=zabit923&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+    </a>   
+    <a href="https://github.com/zabit923">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=zabit923&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" top=" height="192px" width="48.5%"/>
+    </a>   
+    <br/> 
+</a>
+<hr>
