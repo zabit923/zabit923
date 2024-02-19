@@ -1,16 +1,9 @@
+
+
 [![wakatime](https://wakatime.com/badge/user/018ccf65-24b1-4086-8ab7-cc20795faedb.svg)](https://wakatime.com/@018ccf65-24b1-4086-8ab7-cc20795faedb)
-
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b>Zabit Ibragimov.</b>
-        </samp>
-</h3>
-
-<hr>
-
 <p align="center">
     <a href="https://github.com/alsiam">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zabit923&theme=radical"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zabit923&theme=radical" width="100%"/>
     </a>
 </p>
 
@@ -24,8 +17,17 @@
 </a>
 <hr>
 
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b>Zabit Ibragimov.</b>
+        </samp>
+</h3>
+<hr>
+
 - 📫 My mail: xaclafun1991@gmail.com
 - 📱 My telegram: https://t.me/S_Hauptmann
+
+
 
 
 ### Technology stack
