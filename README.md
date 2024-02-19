@@ -55,6 +55,6 @@
     <a href="https://github.com/zabit923">
         <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=zabit923&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" top=" height="192px" width="48.5%"/>
     </a>   
-    <br/> 
 </a>
 <hr>
+<br>
