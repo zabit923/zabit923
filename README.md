@@ -1,6 +1,6 @@
-    <a href="https://github.com/alsiam">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zabit923&theme=radical" width="100%"/>
-    </a>
+<a href="https://github.com/alsiam">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zabit923&theme=radical" width="100%"/>
+</a>
 </p>
 
 <a>
