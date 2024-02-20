@@ -1,3 +1,5 @@
+<a href="@018ccf65-24b1-4086-8ab7-cc20795faedb"></a><img src="https://wakatime.com/badge/user/018ccf65-24b1-4086-8ab7-cc20795faedb.svg">
+
 <a href="https://github.com/alsiam">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zabit923&theme=radical" width="100%"/>
 </a>
