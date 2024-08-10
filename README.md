@@ -31,93 +31,101 @@
 
 > Tools and technologies that I have worked with and am interested in
 
-<table>
-  <tr>
-    <td align="center" width="96">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <table>
+    <tr>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=python" alt="icon" width="48" height="65" />
-    <br>Python
-    <td align="center" width="96">
+        <br>Python
+      </td>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=django" alt="icon" width="48" height="65" />
-    <br>Django
-    <td align="center" width="96">
+        <br>Django
+      </td>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flask" alt="icon" width="48" height="65" />
-    <br>Flask
-    <td align="center" width="96">
+        <br>Flask
+      </td>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=fastapi" alt="icon" width="48" height="65" />
-    <br>FastAPI
-    <td align="center" width="96">
+        <br>FastAPI
+      </td>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" alt="icon" width="48" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
+        <br>Javascript
+      </td>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" alt="icon" width="48" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
+        <br>React
+      </td>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=docker" width="48" height="65" alt="Rest API" />
-      <br>Docker
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
+        <br>Docker
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    </td>
-       <td align="center" width="96">
+        <br>Git
+      </td>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=github" width="48" height="65" alt="GitHub" />
-      <br>Github
-    </td>
-    <td align="center"  width="96">
+        <br>Github
+      </td>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
+        <br>HTML
+      </td>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
+        <br>CSS
+      </td>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-        <td align="center" width="96">
+        <br>Tailwind
+      </td>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-      <br>PostgreSQL
+        <br>PostgreSQL
+      </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongo" alt="icon" width="48" height="65" />
-      <br>MongoDB
-  </tr>
-   <tr>
-    <td align="center" width="96">
+        <br>MongoDB
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-        <td align="center" width="96">
+        <br>Redis
+      </td>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
+        <br>Postman
+      </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
+        <br>Linux
+      </td>
+      <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
-      <br>Celery
-    </td>
-    <td align="center" width="96">
+        <br>Celery
+      </td>
+      <td align="center" width="96">
         <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
-      <br>Pytest
-    <td align="center" width="96">
+        <br>Pytest
+      </td>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=selenium" alt="icon" width="48" height="65" />
-    <br>Selenium
-    </td>
-    <td align="center" width="96">
+        <br>Selenium
+      </td>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nginx" alt="icon" width="48" height="50" />
-      <br>Nginx
-    </td>
-  </tr>
- <tr>
- </tr>
-</table>
+        <br>Nginx
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <hr>
 
