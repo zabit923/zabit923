@@ -62,6 +62,10 @@
         <img src="https://skillicons.dev/icons?i=docker" width="48" height="65" alt="Rest API" />
         <br>Docker
       </td>
+      <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" width="48" height="65" alt="Rest API" />
+        <br>Grafana
+      </td>
     </tr>
     <tr>
       <td align="center" width="96">
@@ -91,6 +95,10 @@
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongo" alt="icon" width="48" height="65" />
         <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus.svg" alt="icon" width="48" height="65" />
+        <br>Prometheus
       </td>
     </tr>
     <tr>
