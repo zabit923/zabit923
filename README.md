@@ -66,6 +66,10 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" width="48" height="65" alt="Rest API" />
         <br>Grafana
       </td>
+      <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" width="48" height="65" alt="Rest API" />
+        <br>Kafka
+      </td>
     </tr>
     <tr>
       <td align="center" width="96">
@@ -129,6 +133,10 @@
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nginx" alt="icon" width="48" height="50" />
         <br>Nginx
+      </td>
+      <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg" alt="icon" width="48" height="50" />
+        <br>RabbitMQ
       </td>
     </tr>
   </table>
