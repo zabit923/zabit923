@@ -27,120 +27,58 @@
     <a href="mailto:xaclafun1991@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/> <a href="https://discordapp.com/users/733051968011894806/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"><a/> <a href="https://t.me/S_Hauptmann"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"><a/>
 <p/>
 
-## Technology stack ⚙️
+## 💻 Technology Stack
 
 > Tools and technologies that I have worked with and am interested in
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" alt="icon" width="48" height="65" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=django" alt="icon" width="48" height="65" />
-        <br>Django
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" alt="icon" width="48" height="65" />
-        <br>Flask
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=fastapi" alt="icon" width="48" height="65" />
-        <br>FastAPI
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" alt="icon" width="48" height="65" />
-        <br>Javascript
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="48" height="65" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="65" alt="Rest API" />
-        <br>Docker
-      </td>
-      <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" width="48" height="65" alt="Rest API" />
-        <br>Grafana
-      </td>
-      <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus.svg" alt="icon" width="48" height="65" />
-        <br>Prometheus
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="65" alt="GitHub" />
-        <br>Github
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-        <br>HTML
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-        <br>CSS
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-        <br>Tailwind
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-        <br>PostgreSQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongo" alt="icon" width="48" height="65" />
-        <br>MongoDB
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-        <br>Redis
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-        <br>Postman
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-        <br>Linux
-      </td>
-      <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
-        <br>Celery
-      </td>
-      <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
-        <br>Pytest
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=selenium" alt="icon" width="48" height="65" />
-        <br>Selenium
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nginx" alt="icon" width="48" height="50" />
-        <br>Nginx
-      </td>
-      <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg" alt="icon" width="48" height="50" />
-        <br>RabbitMQ
-      </td>
-      <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" width="48" height="65" alt="Rest API" />
-        <br>Kafka
-      </td>
-    </tr>
-  </table>
-</div>
+---
+
+### 🧠 Backend
+
+| Python | Django | Flask | FastAPI | Celery | RabbitMQ | Kafka |
+|--------|--------|--------|---------|--------|----------|-------|
+| ![Python](https://skillicons.dev/icons?i=python) | ![Django](https://skillicons.dev/icons?i=django) | ![Flask](https://skillicons.dev/icons?i=flask) | ![FastAPI](https://skillicons.dev/icons?i=fastapi) | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="40"/> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg" width="40"/> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" width="40"/> |
+
+---
+
+### 🌐 Frontend
+
+| JavaScript | HTML | CSS | TailwindCSS |
+|----------|------|-----|-------------|
+| ![JS](https://skillicons.dev/icons?i=js) | ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) | ![Tailwind](https://skillicons.dev/icons?i=tailwind) |
+
+---
+
+### 🐳 DevOps & Infrastructure
+
+| Docker | Nginx | Linux | Git | GitHub |
+|--------|-------|--------|-----|--------|
+| ![Docker](https://skillicons.dev/icons?i=docker) | ![Nginx](https://skillicons.dev/icons?i=nginx) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) |
+
+---
+
+### 🗄️ Databases
+
+| PostgreSQL | MongoDB | Redis |
+|------------|----------|--------|
+| ![Postgres](https://skillicons.dev/icons?i=postgres) | ![MongoDB](https://skillicons.dev/icons?i=mongo) | ![Redis](https://skillicons.dev/icons?i=redis) |
+
+---
+
+### 📊 Monitoring & Observability
+
+| Grafana | Prometheus |
+|---------|-------------|
+| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" width="40"/> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus.svg" width="40"/> |
+
+---
+
+### ✅ Testing
+
+| PyTest | Selenium | Postman |
+|--------|----------|---------|
+| <img src="https://bruhin.software/img/logos/pytest.svg" width="40"/> | ![Selenium](https://skillicons.dev/icons?i=selenium) | ![Postman](https://skillicons.dev/icons?i=postman) |
+
 
 
 <hr>
