@@ -67,8 +67,8 @@
         <br>Grafana
       </td>
       <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" width="48" height="65" alt="Rest API" />
-        <br>Kafka
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus.svg" alt="icon" width="48" height="65" />
+        <br>Prometheus
       </td>
     </tr>
     <tr>
@@ -99,10 +99,6 @@
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongo" alt="icon" width="48" height="65" />
         <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus.svg" alt="icon" width="48" height="65" />
-        <br>Prometheus
       </td>
     </tr>
     <tr>
@@ -137,6 +133,10 @@
       <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg" alt="icon" width="48" height="50" />
         <br>RabbitMQ
+      </td>
+      <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" width="48" height="65" alt="Rest API" />
+        <br>Kafka
       </td>
     </tr>
   </table>
