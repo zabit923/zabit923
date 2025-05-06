@@ -17,6 +17,17 @@
 <hr>
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 1,047 hrs 14 mins
+
+Python                     888 hrs 56 mins █████████████████████▒░░░   84.88 %
+YAML                       32 hrs 36 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+HTML                       28 hrs 5 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+JavaScript                 18 hrs 48 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+TOML                       12 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+```
+
 <!--END_SECTION:waka-->
 
 <hr>
