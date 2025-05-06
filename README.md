@@ -17,13 +17,6 @@
 <hr>
 
 <!--START_SECTION:waka-->
-
-```txt
-Python     6 hrs 44 mins   █████████████████████████   99.93 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-```
-
 <!--END_SECTION:waka-->
 
 <hr>
