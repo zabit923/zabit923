@@ -74,9 +74,9 @@ TOML                       15 hrs 16 mins  ▒░░░░░░░░░░░�
 
 ### 🗄️ Databases
 
-| PostgreSQL | MongoDB | Redis |
-|------------|----------|--------|
-| ![Postgres](https://skillicons.dev/icons?i=postgres) | ![MongoDB](https://skillicons.dev/icons?i=mongo) | ![Redis](https://skillicons.dev/icons?i=redis) |
+| PostgreSQL | MongoDB | Redis | ElasticSearch |
+|------------|----------|--------|--------|
+| ![Postgres](https://skillicons.dev/icons?i=postgres) | ![MongoDB](https://skillicons.dev/icons?i=mongo) | ![Redis](https://skillicons.dev/icons?i=redis) | ![ElasticSearch](https://skillicons.dev/icons?i=elasticsearch) |
 
 ---
 
