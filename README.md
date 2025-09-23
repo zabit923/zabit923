@@ -52,7 +52,7 @@ TOML                       15 hrs 16 mins  ▒░░░░░░░░░░░�
 
 | Python | Django | Flask | FastAPI | Celery | RabbitMQ | Kafka | LangChain |
 |--------|--------|--------|---------|--------|----------|-------|-------|
-| ![Python](https://skillicons.dev/icons?i=python) | ![Django](https://skillicons.dev/icons?i=django) | ![Flask](https://skillicons.dev/icons?i=flask) | ![FastAPI](https://skillicons.dev/icons?i=fastapi) | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="40"/> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg" width="40"/> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" width="40"/> | <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/langchain-auto.svg" width="40"> |
+| ![Python](https://skillicons.dev/icons?i=python) | ![Django](https://skillicons.dev/icons?i=django) | ![Flask](https://skillicons.dev/icons?i=flask) | ![FastAPI](https://skillicons.dev/icons?i=fastapi) | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="50"/> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg" width="50"/> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" width="50"/> | <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/langchain-auto.svg" width="50"> |
 
 ---
 
@@ -84,7 +84,7 @@ TOML                       15 hrs 16 mins  ▒░░░░░░░░░░░�
 
 | Grafana | Prometheus |
 |---------|-------------|
-| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" width="40"/> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus.svg" width="40"/> |
+| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" width="50"/> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus.svg" width="50"/> |
 
 ---
 
@@ -92,7 +92,7 @@ TOML                       15 hrs 16 mins  ▒░░░░░░░░░░░�
 
 | PyTest | Selenium | Postman |
 |--------|----------|---------|
-| <img src="https://bruhin.software/img/logos/pytest.svg" width="40"/> | ![Selenium](https://skillicons.dev/icons?i=selenium) | ![Postman](https://skillicons.dev/icons?i=postman) |
+| <img src="https://bruhin.software/img/logos/pytest.svg" width="50"/> | ![Selenium](https://skillicons.dev/icons?i=selenium) | ![Postman](https://skillicons.dev/icons?i=postman) |
 
 
 
