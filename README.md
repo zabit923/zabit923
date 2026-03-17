@@ -48,7 +48,13 @@ JavaScript                 18 hrs 48 mins        ▒░░░░░░░░░�
 
 ---
 
-### 🧠 Backend
+### 🧠 AI/ML
+
+| LangChain | LangGraph |
+|--------|--------|
+| <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/langchain-auto.svg" width="50"> | <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="80"/> |
+
+### ⚙️ Backend
 
 | Python | Django | Flask | FastAPI | Celery | RabbitMQ | Kafka | LangChain | LangGraph |
 |--------|--------|--------|---------|--------|----------|-------|-------|-------|
