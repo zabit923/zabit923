@@ -50,9 +50,9 @@ JavaScript                 18 hrs 48 mins        ▒░░░░░░░░░�
 
 ### 🧠 AI/ML
 
-| LangChain | LangGraph | MCP | Numpy | Pandas | MatPlotLib |
-|--------|--------|--------|--------|--------|--------|
-| <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/langchain-auto.svg" width="50"> | <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="80"/> | <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/mcp.png" width="50"/> | <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/numpy-3ciw1ptgxr6ray5kb21x2e.png/numpy-d8wet34v8hpb044ry8n5x8.png?_a=DATAiZAAZAA0" width="50"/> | <img src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000" width="50"/> | <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" width="50"/> | 
+| LangChain | LangGraph | MCP | Numpy | Pandas |
+|--------|--------|--------|--------|--------|
+| <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/langchain-auto.svg" width="50"> | <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="80"/> | <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/mcp.png" width="50"/> | <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/numpy-3ciw1ptgxr6ray5kb21x2e.png/numpy-d8wet34v8hpb044ry8n5x8.png?_a=DATAiZAAZAA0" width="50"/> | <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" width="50"/> |
 
 ### ⚙️ Backend
 
