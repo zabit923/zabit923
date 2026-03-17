@@ -50,15 +50,15 @@ JavaScript                 18 hrs 48 mins        ▒░░░░░░░░░�
 
 ### 🧠 AI/ML
 
-| LangChain | LangGraph |
-|--------|--------|
-| <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/langchain-auto.svg" width="50"> | <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="80"/> |
+| LangChain | LangGraph | MCP |
+|--------|--------|--------|
+| <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/langchain-auto.svg" width="50"> | <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="80"/> | <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/mcp.png" width="80"/> |
 
 ### ⚙️ Backend
 
-| Python | Django | Flask | FastAPI | Celery | RabbitMQ | Kafka | LangChain | LangGraph |
-|--------|--------|--------|---------|--------|----------|-------|-------|-------|
-| ![Python](https://skillicons.dev/icons?i=python) | ![Django](https://skillicons.dev/icons?i=django) | ![Flask](https://skillicons.dev/icons?i=flask) | ![FastAPI](https://skillicons.dev/icons?i=fastapi) | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="50"/> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg" width="50"/> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" width="50"/> | <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/langchain-auto.svg" width="50"> | <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="80"/> |
+| Python | Django | Flask | FastAPI | Celery | RabbitMQ | Kafka |
+|--------|--------|--------|---------|--------|----------|-------|
+| ![Python](https://skillicons.dev/icons?i=python) | ![Django](https://skillicons.dev/icons?i=django) | ![Flask](https://skillicons.dev/icons?i=flask) | ![FastAPI](https://skillicons.dev/icons?i=fastapi) | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="50"/> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg" width="50"/> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" width="50"/> |
 
 ---
 
