@@ -52,7 +52,7 @@ JavaScript                 18 hrs 48 mins        ▒░░░░░░░░░�
 
 | LangChain | LangGraph | MCP | Numpy |
 |--------|--------|--------|--------|
-| <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/langchain-auto.svg" width="50"> | <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="80"/> | <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/mcp.png" width="80"/> | <img src="https://images.seeklogo.com/logo-png/39/1/numpy-logo-png_seeklogo-398690.png" width="80"/> | 
+| <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/langchain-auto.svg" width="50"> | <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="80"/> | <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/mcp.png" width="80"/> | <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/numpy-3ciw1ptgxr6ray5kb21x2e.png/numpy-d8wet34v8hpb044ry8n5x8.png?_a=DATAiZAAZAA0" width="80"/> | 
 
 ### ⚙️ Backend
 
