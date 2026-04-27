@@ -19,9 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1,906 hrs
+Total Time: 1,906 hrs 6 mins
 
-Python                     1,632 hrs 59 mins     █████████████████████▒░░░   85.68 %
+Python                     1,632 hrs 59 mins     █████████████████████▒░░░   85.67 %
 YAML                       70 hrs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
 Bash                       29 hrs 35 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 HTML                       28 hrs 18 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
